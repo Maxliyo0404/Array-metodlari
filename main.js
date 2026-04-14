@@ -18,5 +18,6 @@
 //     element + ("xon") );
 //  console.log(ism);
 // 2-masala
- const flowers = ['atirgul', 'lola']
+ const gullar = ['atir', 'lola', 'binafsha', 'chinni'];
+ c
  
