@@ -63,8 +63,8 @@
 // console.log(num);
  
 // 3-masala
- let ismlar = ['Xasan', 'Anvar', 'Dilshodbek', 'Sherzodbek', 'Ulugbek'];
- let yangiism = ismlar.filter(function(ism){
-    return ism.endsWith('bek');
- })
-console.log(yangiism);
+//  let ismlar = ['Xasan', 'Anvar', 'Dilshodbek', 'Sherzodbek', 'Ulugbek'];
+//  let yangiism = ismlar.filter(function(ism){
+//     return ism.endsWith('bek');
+//  })
+// console.log(yangiism);
