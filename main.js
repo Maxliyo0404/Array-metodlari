@@ -49,3 +49,7 @@
 //     }
 // })
 // console.log(son );
+
+// 3.  Filter metodi
+
+let kitob = ['badiiy', 'sheriy',]
