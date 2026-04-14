@@ -51,7 +51,12 @@
 // console.log(son );
 
 // 3.  Filter metodi
+//   1-masala
+// let kitoblar = ['badiiy', 'sheriy', 'ertak', 'hajviy', ];
+// let kitob = kitoblar.filter((item , index) => index < 2);
+// console.log(kitob);
 
-let kitoblar = ['badiiy', 'sheriy', 'ertak', 'hajviy', ];
-let kitob = kitoblar.filter((item , index) => index < 2);
-console.log(kitob);
+// 2- masala
+
+let number = [ 1, 2, 80, 4, 30, 70, 60,200];
+let num = 
