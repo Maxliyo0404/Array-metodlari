@@ -29,5 +29,13 @@
 //  console.log(yangigullar);
 
 // 3-masala
-let ismlar = ['Xasan ', 'Anvar', 'Dilshod', 'Sherzod']
+let ismlar = ['Xasan', 'Anvar', 'Dilshod', 'Sherzod', 'Ulugbek'];
+let yangismlar = ismlar.map(function(ism){
+    if (ism === 'Xasan' || ism === 'Anvar' || ism === 'Sherzod' ) {
+        return  ism + 'boy';
+    } else {
+        return ism ;
+    }
+})
+ console.log(yangismlar);
  
