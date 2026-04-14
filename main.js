@@ -68,3 +68,5 @@
 //     return ism.endsWith('bek');
 //  })
 // console.log(yangiism);
+
+// 4.  reduce metodi
