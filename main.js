@@ -10,3 +10,6 @@
 //     console.log(element);
     
 // })
+
+// 2.  Map metodi
+
