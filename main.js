@@ -52,4 +52,6 @@
 
 // 3.  Filter metodi
 
-let kitob = ['badiiy', 'sheriy',]
+let kitoblar = ['badiiy', 'sheriy', 'ertak', 'hajviy', ];
+let kitob = kitoblar.filter((item , index) => index < 2);
+console.log(kitob);
