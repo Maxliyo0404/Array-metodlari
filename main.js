@@ -12,9 +12,11 @@
 // })
 
 // 2.  Map metodi
-
+//  1-masala
 // let ismlar = ['Malika', 'Dilshoda', 'Gavharoy', 'Odina', 'Sevara'];
 // let ism = ismlar.map(element => 
 //     element + ("xon") );
 //  console.log(ism);
+// 2-masala
+ const flowers = ['atirgul', 'lola']
  
