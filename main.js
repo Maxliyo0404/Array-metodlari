@@ -13,3 +13,5 @@
 
 // 2.  Map metodi
 
+let ism = ['Malika', 'Dilshoda', 'Gavharoy', 'Odina', 'Sevara'];
+ 
