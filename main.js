@@ -70,3 +70,4 @@
 // console.log(yangiism);
 
 // 4.  reduce metodi
+// 1-masala
