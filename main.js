@@ -5,8 +5,8 @@
 //   console.log(element);
 // })
 // 2-masala
-const fruits = ['apple', 'banana', 'peach', 'stroboriy'];
-const fruit = fruits.forEach(function(element){
-    console.log(element);
+// const fruits = ['apple', 'banana', 'peach', 'stroboriy'];
+// const fruit = fruits.forEach(function(element){
+//     console.log(element);
     
-})
+// })
