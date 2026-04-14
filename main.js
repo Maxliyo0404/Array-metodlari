@@ -43,8 +43,9 @@
 let sonlar = [1, 2, 3, 4, 5, 6, 7, 8, 9];
 let son = sonlar.map(function(sum){
     if (sum === 1 || sum === 5 || sum === 9) {
-        return sum + 0 ;
+        return sum +  '0' ;
     } else {
         return sum;
     }
 })
+console.log(son );
