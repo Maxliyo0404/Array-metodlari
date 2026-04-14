@@ -65,10 +65,6 @@
 // 3-masala
  let ismlar = ['Xasan', 'Anvar', 'Dilshodbek', 'Sherzodbek', 'Ulugbek'];
  let yangiism = ismlar.filter(function(ism){
-    if (ism === 'bek') {
-        return ism - 'bek';
-    } else {
-        return ism;
-    }
+    return ism.endsWith('bek');
  })
 console.log(yangiism);
