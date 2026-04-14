@@ -84,8 +84,5 @@ const users = [
     { id: 'u2', name: 'Anvar', role: 'user' },
     { id: 'u3', name: 'Dilshod', role: 'editor' }
 ];
-const userse = users.reduce((acc, user)=> {
-    acc,[user.id] = user;
-     return acc
-}, {});
+const userse = users.reduce((acc, user)=> ({...acc, [user.id]:  user}) , {});
 console.log(users);
