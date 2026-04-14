@@ -19,5 +19,12 @@
 //  console.log(ism);
 // 2-masala
  const gullar = ['atir', 'lola', 'binafsha', 'chinni'];
- c
+ const guli  = gullar.map(function ( gul){
+    if (guli === 'atir', 'chinni') {
+        return  guli + "gul";
+    } else {
+        return gul
+    } 
+ })
+ console.log(guli);
  
