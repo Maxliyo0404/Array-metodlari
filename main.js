@@ -13,5 +13,8 @@
 
 // 2.  Map metodi
 
-let ism = ['Malika', 'Dilshoda', 'Gavharoy', 'Odina', 'Sevara'];
+let ismlar = ['Malika', 'Dilshoda', 'Gavharoy', 'Odina', 'Sevara'];
+let ism = ismlar.map(element => 
+    element + ("xon") );
+ console.log(ism);
  
