@@ -18,13 +18,16 @@
 //     element + ("xon") );
 //  console.log(ism);
 // 2-masala
- const gullar = ['atir', 'lola', 'binafsha', 'chinni'];
- const yangigullar  = gullar.map(function ( gul){
-    if (gul === 'atir' || gul === 'chinni') {
-        return  gul + "gul";
-    } else {
-        return gul
-    } 
- })
- console.log(yangigullar);
+//  const gullar = ['atir', 'lola', 'binafsha', 'chinni'];
+//  const yangigullar  = gullar.map(function ( gul){
+//     if (gul === 'atir' || gul === 'chinni') {
+//         return  gul + "gul";
+//     } else {
+//         return gul
+//     } 
+//  })
+//  console.log(yangigullar);
+
+// 3-masala
+let ismlar = ['Xasan ', 'Anvar', 'Dilshod', 'Sherzod']
  
