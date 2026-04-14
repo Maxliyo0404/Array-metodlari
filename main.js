@@ -58,5 +58,7 @@
 
 // 2- masala
 
-let number = [ 1, 2, 80, 4, 30, 70, 60,200];
-let num = 
+let number = [ 1, 2, 80, 4, 3, 70, 60, 200];
+let num = number.filter((son, index) => son % 2 === 0);
+console.log(num);
+ 
