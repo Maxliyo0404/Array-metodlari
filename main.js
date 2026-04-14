@@ -71,3 +71,7 @@
 
 // 4.  reduce metodi
 // 1-masala
+let son1 = [1, 3, 5, 7, 9];
+let son2 = [2, 4, 6, 8];
+let natija = son1 + son2 ;
+let result
